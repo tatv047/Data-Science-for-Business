@@ -600,3 +600,13 @@ print("1. Use Method 1 (Custom Scorer) - integrates well with existing GridSearc
 print("2. Set min_precision based on your HR capacity (e.g., 0.3 if you can handle 3 false positives per true positive)")
 print("3. This approach optimizes BOTH hyperparameters AND threshold simultaneously")
 print("4. You'll get better recall than standard GridSearchCV with default threshold")
+
+
+
+
+
+
+Cutsomer Segmentation:
+
+- link: https://www.youtube.com/watch?v=afPJeQuVeuY
+- https://github.com/trentpark8800/online-retail-data-clustering/tree/main
