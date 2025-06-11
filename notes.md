@@ -610,3 +610,6 @@ Cutsomer Segmentation:
 
 - link: https://www.youtube.com/watch?v=afPJeQuVeuY
 - https://github.com/trentpark8800/online-retail-data-clustering/tree/main
+
+Employee Attrition:
+- https://www.kaggle.com/datasets/stealthtechnologies/employee-attrition-dataset/code
